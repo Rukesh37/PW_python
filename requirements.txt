@@ -1,9 +1,2 @@
-pytest 
-playwright 
-pytest-xdist 
-pytest-html 
-allure-pytest 
-pytest-rerunfailures 
-openpyxl 
-Faker 
-python-slugify  
+pytest==7.4.0
+playwright==1.40.0
